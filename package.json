@@ -1,0 +1,12 @@
+{
+  "name": "donald-toad-bot",
+  "version": "1.0.0",
+  "main": "one_file_solution.cjs",
+  "scripts": {
+    "start": "node one_file_solution.cjs"
+  },
+  "type": "module",
+  "dependencies": {
+    "node-fetch": "^2.6.9"
+  }
+}
